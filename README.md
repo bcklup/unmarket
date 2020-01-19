@@ -1,2 +1,2 @@
-# unmarket
-Unmarket - FB Marketplace module blocker
+# Unmarket
+Simple CSS-based FB Marketplace module blocker
